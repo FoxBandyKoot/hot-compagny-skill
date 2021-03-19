@@ -14,6 +14,7 @@ class HotCompagny(MycroftSkill):
         headers = {'content-type': 'application/json'}
         r = requests.get(url, headers=headers)
         details = json.loads(r.text)
+        self.speak_dialog(details)
         print(details)
 
 def create_skill():
