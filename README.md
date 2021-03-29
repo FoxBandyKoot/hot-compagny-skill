@@ -5,9 +5,9 @@ Toast bread
 Toast bread with the best toaster in the world, or the universe
 
 ## Examples
-* "Toast"
-* "Grill"
-* "Roast"
+* "Toast me ..."
+* "Grill me ..."
+* "Roast me ..."
 
 ## Credits
 FoxBandyKoot
