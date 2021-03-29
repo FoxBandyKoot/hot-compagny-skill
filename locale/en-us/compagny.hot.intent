@@ -1,3 +1,8 @@
-Toast
-Grill
-Roast
+add new user {{words}}
+select the user {{words}}
+remove the user {{words}}
+add new bread {{words}} 
+toast me {{words}} seconds
+grill me {{words}} seconds
+roast me {{words}} seconds
+remove the bread {{words}}
